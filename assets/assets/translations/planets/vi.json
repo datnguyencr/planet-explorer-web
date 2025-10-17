@@ -1,0 +1,224 @@
+{
+  "moon": {
+    "description": "Mặt Trăng là vệ tinh tự nhiên duy nhất của Trái Đất và là mặt trăng lớn thứ năm trong Hệ Mặt Trời. Nó đóng vai trò quan trọng đối với thủy triều, khí hậu và cả sự ổn định của trục quay Trái Đất.",
+    "diameter": "3,474 km",
+    "averageOrbitalSpeed": "1.022 km/s",
+    "mass": "7.346 × 10²² kg",
+    "surfaceGravity": "1.62 m/s² (khoảng 1/6 trọng lực Trái Đất)",
+    "orbitalPeriod": "27.3 ngày",
+    "rotationPeriod": "27.3 ngày (quay đồng bộ)",
+    "surfaceTemperature": "-173°C đến 127°C (-280°F đến 260°F)",
+    "atmosphereComposition": [
+      "Heli (He)",
+      "Argon (Ar)",
+      "Neon (Ne)",
+      "Natri (Na)",
+      "Kali (K)",
+      "Hydro (H)"
+    ],
+    "surfaceComposition": "Đá silicat, Bazan, Regolith (bụi Mặt Trăng)",
+    "waterPresence": "Phát hiện băng trong các hố va chạm ở cực"
+  },
+  "mars": {
+    "description": "Sao Hỏa là hành tinh thứ tư tính từ Mặt Trời và là hành tinh nhỏ thứ hai trong Hệ Mặt Trời. Thường được gọi là Hành Tinh Đỏ do bề mặt có màu đỏ từ oxit sắt (gỉ sét).",
+    "diameter": "6,779 km",
+    "averageOrbitalSpeed": "24.077 km/s",
+    "mass": "6.417 × 10²³ kg",
+    "surfaceGravity": "3.71 m/s² (khoảng 38% trọng lực Trái Đất)",
+    "orbitalPeriod": "687 ngày Trái Đất (~1.88 năm Trái Đất)",
+    "rotationPeriod": "24.6 giờ (1.03 ngày Trái Đất)",
+    "surfaceTemperature": "-140°C đến 30°C (-220°F đến 86°F)",
+    "atmosphereComposition": [
+      "Carbon dioxide (CO₂)",
+      "Nitơ (N₂)",
+      "Argon (Ar)",
+      "Oxy (O₂)",
+      "Hơi nước (H₂O)"
+    ],
+    "surfaceComposition": "Bazan, Bụi, Khoáng chất giàu sắt",
+    "moons": [
+      "Phobos",
+      "Deimos"
+    ],
+    "waterPresence": "Có băng ở cực và có thể có nước lỏng dưới lòng đất"
+  },
+  "saturn": {
+    "description": "Sao Thổ là hành tinh thứ sáu tính từ Mặt Trời và là hành tinh lớn thứ hai trong Hệ Mặt Trời. Nó nổi tiếng với hệ thống vành đai đặc trưng được tạo bởi băng, đá và bụi.",
+    "diameter": "120,536 km",
+    "averageOrbitalSpeed": "9.69 km/s",
+    "mass": "5.683 × 10²⁶ kg",
+    "surfaceGravity": "10.44 m/s² (khoảng 95% trọng lực Trái Đất)",
+    "orbitalPeriod": "29.5 năm Trái Đất",
+    "rotationPeriod": "10.7 giờ",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "Hydro (H₂)",
+      "Heli (He)",
+      "Methane (CH₄)",
+      "Amoniac (NH₃)"
+    ],
+    "surfaceComposition": "Không có bề mặt rắn; chủ yếu là khí với lõi đá có thể tồn tại",
+    "moons": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Tổng cộng: 146 mặt trăng đã biết"
+    ],
+    "rings": "Tạo thành từ băng, bụi và đá, trải rộng đến 282,000 km"
+  },
+  "earth": {
+    "description": "Trái Đất là hành tinh thứ ba tính từ Mặt Trời và là thiên thể duy nhất được biết có sự sống. Nó có khí hậu đa dạng, nước lỏng và bầu khí quyển bảo vệ.",
+    "diameter": "12,742 km",
+    "averageOrbitalSpeed": "29.78 km/s",
+    "mass": "5.972 × 10²⁴ kg",
+    "surfaceGravity": "9.81 m/s²",
+    "orbitalPeriod": "365.25 ngày (1 năm)",
+    "rotationPeriod": "23.93 giờ",
+    "surfaceTemperature": "-88°C đến 58°C (-126°F đến 136°F)",
+    "atmosphereComposition": [
+      "Nitơ (N₂)",
+      "Oxy (O₂)",
+      "Argon (Ar)",
+      "Carbon dioxide (CO₂)",
+      "Hơi nước (H₂O)"
+    ],
+    "surfaceComposition": "Đá, Nước, Đất, Băng",
+    "moons": [
+      "Mặt Trăng"
+    ],
+    "waterPresence": "70% bề mặt Trái Đất được bao phủ bởi nước lỏng"
+  },
+  "jupiter": {
+    "description": "Sao Mộc là hành tinh thứ năm tính từ Mặt Trời và là hành tinh lớn nhất trong Hệ Mặt Trời. Nó là một hành tinh khí khổng lồ chủ yếu gồm hydro và heli, nổi tiếng với Vết Đỏ Lớn – một cơn bão khổng lồ.",
+    "diameter": "139,820 km",
+    "averageOrbitalSpeed": "13.07 km/s",
+    "mass": "1.898 × 10²⁷ kg",
+    "surfaceGravity": "24.79 m/s² (khoảng 2.5 lần trọng lực Trái Đất)",
+    "orbitalPeriod": "11.86 năm Trái Đất",
+    "rotationPeriod": "9.93 giờ",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "Hydro (H₂)",
+      "Heli (He)",
+      "Methane (CH₄)",
+      "Amoniac (NH₃)",
+      "Hơi nước (H₂O)"
+    ],
+    "surfaceComposition": "Không có bề mặt rắn; chủ yếu là khí với lõi hydro kim loại có thể tồn tại",
+    "moons": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto",
+      "Tổng cộng: 95 mặt trăng đã biết"
+    ]
+  },
+  "mercury": {
+    "description": "Sao Thủy là hành tinh gần Mặt Trời nhất và là hành tinh nhỏ nhất trong Hệ Mặt Trời. Nó hầu như không có khí quyển nên không giữ được nhiệt, dẫn đến sự chênh lệch nhiệt độ cực lớn.",
+    "diameter": "4,880 km",
+    "averageOrbitalSpeed": "47.87 km/s",
+    "mass": "3.301 × 10²³ kg",
+    "surfaceGravity": "3.7 m/s² (khoảng 38% trọng lực Trái Đất)",
+    "orbitalPeriod": "88 ngày Trái Đất",
+    "rotationPeriod": "58.6 ngày Trái Đất",
+    "surfaceTemperature": "-173°C đến 427°C (-280°F đến 800°F)",
+    "atmosphereComposition": [
+      "Oxy (O₂)",
+      "Natri (Na)",
+      "Hydro (H)",
+      "Heli (He)",
+      "Kali (K)"
+    ],
+    "surfaceComposition": "Đá silicat, Lõi giàu sắt",
+    "moons": null,
+    "waterPresence": "Có băng trong các hố va chạm vĩnh viễn bị che khuất tại cực"
+  },
+  "neptune": {
+    "description": "Sao Hải Vương là hành tinh thứ tám và xa nhất tính từ Mặt Trời trong Hệ Mặt Trời. Nó là hành tinh băng khổng lồ nổi tiếng với màu xanh lam đậm và những cơn gió nhanh nhất trong hệ.",
+    "diameter": "49,244 km",
+    "averageOrbitalSpeed": "5.43 km/s",
+    "mass": "1.024 × 10²⁶ kg",
+    "surfaceGravity": "11.15 m/s² (khoảng 1.14 lần trọng lực Trái Đất)",
+    "orbitalPeriod": "164.8 năm Trái Đất",
+    "rotationPeriod": "16.1 giờ",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": [
+      "Hydro (H₂)",
+      "Heli (He)",
+      "Methane (CH₄)"
+    ],
+    "surfaceComposition": "Không có bề mặt rắn; chủ yếu là băng và khí với lõi đá có thể tồn tại",
+    "moons": [
+      "Triton",
+      "Proteus",
+      "Nereid",
+      "Tổng cộng: 14 mặt trăng đã biết"
+    ]
+  },
+  "sun": {
+    "description": "Mặt Trời là ngôi sao ở trung tâm Hệ Mặt Trời. Nó là nguồn năng lượng chính cho sự sống trên Trái Đất, và lực hấp dẫn của nó giữ cho các hành tinh quay quanh quỹ đạo.",
+    "diameter": "1,391,000 km",
+    "averageOrbitalSpeed": "220 km/s (quanh trung tâm Dải Ngân Hà)",
+    "mass": "1.989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (khoảng 28 lần trọng lực bề mặt Trái Đất)",
+    "orbitalPeriod": "225 triệu năm (để quay quanh trung tâm Dải Ngân Hà)",
+    "rotationPeriod": "24 đến 35 ngày (tùy theo vĩ độ)",
+    "surfaceTemperature": "5,500°C (9,932°F)",
+    "atmosphereComposition": [
+      "Hydro (H)",
+      "Heli (He)",
+      "Oxy (O₂)",
+      "Carbon (C)",
+      "Neon (Ne)",
+      "Sắt (Fe)"
+    ],
+    "surfaceComposition": "Chủ yếu là hydro và heli ở trạng thái plasma",
+    "moons": null,
+    "solarWind": "Dòng hạt tích điện liên tục (proton, electron) phát ra từ Mặt Trời"
+  },
+  "uranus": {
+    "description": "Sao Thiên Vương là hành tinh thứ bảy tính từ Mặt Trời và có màu xanh lam do methane trong khí quyển. Đây là một hành tinh băng khổng lồ với trục nghiêng độc đáo, gây ra sự thay đổi mùa cực đoan.",
+    "diameter": "50,724 km",
+    "averageOrbitalSpeed": "6.81 km/s",
+    "mass": "8.681 × 10²⁵ kg",
+    "surfaceGravity": "8.69 m/s² (khoảng 0.89 lần trọng lực Trái Đất)",
+    "orbitalPeriod": "84 năm Trái Đất",
+    "rotationPeriod": "17.2 giờ",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": [
+      "Hydro (H₂)",
+      "Heli (He)",
+      "Methane (CH₄)"
+    ],
+    "surfaceComposition": "Không có bề mặt rắn; chủ yếu là băng nước, amoniac và methane",
+    "moons": [
+      "Miranda",
+      "Ariel",
+      "Umbriel",
+      "Titania",
+      "Oberon",
+      "Tổng cộng: 27 mặt trăng đã biết"
+    ],
+    "rings": "Có hệ thống vành đai mờ gồm 13 vành đã biết",
+    "notableFeature": "Sao Thiên Vương độc đáo nhờ trục nghiêng cực đại, quay gần như nằm ngang"
+  },
+  "venus": {
+    "description": "Sao Kim là hành tinh thứ hai tính từ Mặt Trời và thường được gọi là 'chị em của Trái Đất' do kích thước và thành phần tương tự. Nó có khí quyển dày giữ nhiệt, khiến đây là hành tinh nóng nhất trong Hệ Mặt Trời.",
+    "diameter": "12,104 km",
+    "averageOrbitalSpeed": "35.02 km/s",
+    "mass": "4.867 × 10²⁴ kg",
+    "surfaceGravity": "8.87 m/s² (khoảng 0.9 lần trọng lực Trái Đất)",
+    "orbitalPeriod": "225 ngày Trái Đất",
+    "rotationPeriod": "243 ngày Trái Đất (quay nghịch, ngược chiều so với hầu hết hành tinh)",
+    "surfaceTemperature": "462°C (864°F), nóng hơn cả Sao Thủy dù xa Mặt Trời hơn",
+    "atmosphereComposition": [
+      "Carbon dioxide (CO₂)",
+      "Nitơ (N₂)",
+      "Sulfur dioxide (SO₂)",
+      "Hơi nước (H₂O)"
+    ],
+    "surfaceComposition": "Chủ yếu là đồng bằng núi lửa, nhiều núi lửa lớn và dãy núi rộng lớn",
+    "moons": null,
+    "notableFeature": "Sao Kim có áp suất bề mặt cực cao và khí quyển dày đặc với mây axit sulfuric, tạo môi trường cực kỳ khắc nghiệt."
+  }
+}

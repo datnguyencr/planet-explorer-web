@@ -1,0 +1,224 @@
+{
+  "moon": {
+    "description": "A Lua é o único satélite natural da Terra e o quinto maior do Sistema Solar. Ela desempenha um papel crucial nas marés, no clima e até na estabilidade do eixo de rotação da Terra.",
+    "diameter": "3.474 km",
+    "averageOrbitalSpeed": "1,022 km/s",
+    "mass": "7,346 × 10²² kg",
+    "surfaceGravity": "1,62 m/s² (cerca de 1/6 da gravidade da Terra)",
+    "orbitalPeriod": "27,3 dias",
+    "rotationPeriod": "27,3 dias (rotação síncrona)",
+    "surfaceTemperature": "-173°C a 127°C (-280°F a 260°F)",
+    "atmosphereComposition": [
+      "Hélio (He)",
+      "Argônio (Ar)",
+      "Neônio (Ne)",
+      "Sódio (Na)",
+      "Potássio (K)",
+      "Hidrogênio (H)"
+    ],
+    "surfaceComposition": "Rocha de silicato, basalto, regolito (poeira lunar)",
+    "waterPresence": "Gelo detectado em crateras polares"
+  },
+  "mars": {
+    "description": "Marte é o quarto planeta a partir do Sol e o segundo menor do Sistema Solar. Conhecido como o Planeta Vermelho, sua cor avermelhada vem do óxido de ferro (ferrugem) em sua superfície.",
+    "diameter": "6.779 km",
+    "averageOrbitalSpeed": "24,077 km/s",
+    "mass": "6,417 × 10²³ kg",
+    "surfaceGravity": "3,71 m/s² (cerca de 38% da gravidade da Terra)",
+    "orbitalPeriod": "687 dias terrestres (~1,88 anos terrestres)",
+    "rotationPeriod": "24,6 horas (1,03 dias terrestres)",
+    "surfaceTemperature": "-140°C a 30°C (-220°F a 86°F)",
+    "atmosphereComposition": [
+      "Dióxido de carbono (CO₂)",
+      "Nitrogênio (N₂)",
+      "Argônio (Ar)",
+      "Oxigênio (O₂)",
+      "Vapor d’água (H₂O)"
+    ],
+    "surfaceComposition": "Basalto, poeira, minerais ricos em ferro",
+    "moons": [
+      "Fobos",
+      "Deimos"
+    ],
+    "waterPresence": "Gelo nos polos e possivelmente água líquida subterrânea"
+  },
+  "saturn": {
+    "description": "Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar. É conhecido por seu icônico sistema de anéis feitos de gelo, rocha e poeira.",
+    "diameter": "120.536 km",
+    "averageOrbitalSpeed": "9,69 km/s",
+    "mass": "5,683 × 10²⁶ kg",
+    "surfaceGravity": "10,44 m/s² (cerca de 95% da gravidade da Terra)",
+    "orbitalPeriod": "29,5 anos terrestres",
+    "rotationPeriod": "10,7 horas",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "Hidrogênio (H₂)",
+      "Hélio (He)",
+      "Metano (CH₄)",
+      "Amônia (NH₃)"
+    ],
+    "surfaceComposition": "Sem superfície sólida; composta principalmente por gás com possível núcleo rochoso",
+    "moons": [
+      "Titã",
+      "Encélado",
+      "Reia",
+      "Total: 146 luas conhecidas"
+    ],
+    "rings": "Compostos de gelo, poeira e rochas, estendendo-se até 282.000 km"
+  },
+  "earth": {
+    "description": "A Terra é o terceiro planeta a partir do Sol e o único corpo celeste conhecido que abriga vida. Possui um clima diversificado, água líquida e uma atmosfera protetora.",
+    "diameter": "12.742 km",
+    "averageOrbitalSpeed": "29,78 km/s",
+    "mass": "5,972 × 10²⁴ kg",
+    "surfaceGravity": "9,81 m/s²",
+    "orbitalPeriod": "365,25 dias (1 ano)",
+    "rotationPeriod": "23,93 horas",
+    "surfaceTemperature": "-88°C a 58°C (-126°F a 136°F)",
+    "atmosphereComposition": [
+      "Nitrogênio (N₂)",
+      "Oxigênio (O₂)",
+      "Argônio (Ar)",
+      "Dióxido de carbono (CO₂)",
+      "Vapor d’água (H₂O)"
+    ],
+    "surfaceComposition": "Rocha, água, solo, gelo",
+    "moons": [
+      "A Lua"
+    ],
+    "waterPresence": "70% da superfície da Terra é coberta por água líquida"
+  },
+  "jupiter": {
+    "description": "Júpiter é o quinto planeta a partir do Sol e o maior do Sistema Solar. É um gigante gasoso composto principalmente de hidrogênio e hélio, famoso pela Grande Mancha Vermelha, uma tempestade massiva.",
+    "diameter": "139.820 km",
+    "averageOrbitalSpeed": "13,07 km/s",
+    "mass": "1,898 × 10²⁷ kg",
+    "surfaceGravity": "24,79 m/s² (cerca de 2,5 vezes a gravidade da Terra)",
+    "orbitalPeriod": "11,86 anos terrestres",
+    "rotationPeriod": "9,93 horas",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "Hidrogênio (H₂)",
+      "Hélio (He)",
+      "Metano (CH₄)",
+      "Amônia (NH₃)",
+      "Vapor d’água (H₂O)"
+    ],
+    "surfaceComposition": "Sem superfície sólida; composta principalmente por gás com possível núcleo de hidrogênio metálico",
+    "moons": [
+      "Io",
+      "Europa",
+      "Ganimedes",
+      "Calisto",
+      "Total: 95 luas conhecidas"
+    ]
+  },
+  "mercury": {
+    "description": "Mercúrio é o planeta mais próximo do Sol e o menor do Sistema Solar. Não possui atmosfera para reter calor, o que causa temperaturas extremamente variáveis.",
+    "diameter": "4.880 km",
+    "averageOrbitalSpeed": "47,87 km/s",
+    "mass": "3,301 × 10²³ kg",
+    "surfaceGravity": "3,7 m/s² (cerca de 38% da gravidade da Terra)",
+    "orbitalPeriod": "88 dias terrestres",
+    "rotationPeriod": "58,6 dias terrestres",
+    "surfaceTemperature": "-173°C a 427°C (-280°F a 800°F)",
+    "atmosphereComposition": [
+      "Oxigênio (O₂)",
+      "Sódio (Na)",
+      "Hidrogênio (H)",
+      "Hélio (He)",
+      "Potássio (K)"
+    ],
+    "surfaceComposition": "Rocha de silicato, núcleo rico em ferro",
+    "moons": null,
+    "waterPresence": "Gelo detectado em crateras polares permanentemente sombreadas"
+  },
+  "neptune": {
+    "description": "Netuno é o oitavo e mais distante planeta do Sol. É um gigante gelado conhecido por sua cor azul profunda e pelos ventos mais rápidos do Sistema Solar.",
+    "diameter": "49.244 km",
+    "averageOrbitalSpeed": "5,43 km/s",
+    "mass": "1,024 × 10²⁶ kg",
+    "surfaceGravity": "11,15 m/s² (cerca de 1,14 vezes a gravidade da Terra)",
+    "orbitalPeriod": "164,8 anos terrestres",
+    "rotationPeriod": "16,1 horas",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": [
+      "Hidrogênio (H₂)",
+      "Hélio (He)",
+      "Metano (CH₄)"
+    ],
+    "surfaceComposition": "Sem superfície sólida; composta principalmente de gelo e gás com possível núcleo rochoso",
+    "moons": [
+      "Tritão",
+      "Proteu",
+      "Nereida",
+      "Total: 14 luas conhecidas"
+    ]
+  },
+  "sun": {
+    "description": "O Sol é a estrela no centro do Sistema Solar. É a principal fonte de energia para a vida na Terra, e sua gravidade mantém todos os planetas em órbita.",
+    "diameter": "1.391.000 km",
+    "averageOrbitalSpeed": "220 km/s (em torno do centro da Via Láctea)",
+    "mass": "1,989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (cerca de 28 vezes a gravidade da Terra)",
+    "orbitalPeriod": "225 milhões de anos (para orbitar o centro da Via Láctea)",
+    "rotationPeriod": "24 a 35 dias (dependendo da latitude)",
+    "surfaceTemperature": "5.500°C (9.932°F)",
+    "atmosphereComposition": [
+      "Hidrogênio (H)",
+      "Hélio (He)",
+      "Oxigênio (O₂)",
+      "Carbono (C)",
+      "Neônio (Ne)",
+      "Ferro (Fe)"
+    ],
+    "surfaceComposition": "Principalmente hidrogênio e hélio em estado de plasma",
+    "moons": null,
+    "solarWind": "Fluxo constante de partículas carregadas (prótons e elétrons) emitidas pelo Sol"
+  },
+  "uranus": {
+    "description": "Urano é o sétimo planeta a partir do Sol e é conhecido por sua cor azul, causada pelo metano em sua atmosfera. É um gigante gelado com eixo de rotação inclinado, o que causa variações sazonais extremas.",
+    "diameter": "50.724 km",
+    "averageOrbitalSpeed": "6,81 km/s",
+    "mass": "8,681 × 10²⁵ kg",
+    "surfaceGravity": "8,69 m/s² (cerca de 0,89 vezes a gravidade da Terra)",
+    "orbitalPeriod": "84 anos terrestres",
+    "rotationPeriod": "17,2 horas",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": [
+      "Hidrogênio (H₂)",
+      "Hélio (He)",
+      "Metano (CH₄)"
+    ],
+    "surfaceComposition": "Sem superfície sólida; composta principalmente de gelo de água, amônia e metano",
+    "moons": [
+      "Miranda",
+      "Ariel",
+      "Umbriel",
+      "Titânia",
+      "Oberon",
+      "Total: 27 luas conhecidas"
+    ],
+    "rings": "Urano possui um sistema de anéis tênues com 13 anéis conhecidos",
+    "notableFeature": "Urano é único por sua inclinação axial extrema, girando praticamente de lado"
+  },
+  "venus": {
+    "description": "Vênus é o segundo planeta a partir do Sol e é frequentemente chamado de 'planeta irmão da Terra' devido ao tamanho e composição semelhantes. Possui uma atmosfera densa que retém calor, tornando-o o planeta mais quente do Sistema Solar.",
+    "diameter": "12.104 km",
+    "averageOrbitalSpeed": "35,02 km/s",
+    "mass": "4,867 × 10²⁴ kg",
+    "surfaceGravity": "8,87 m/s² (cerca de 0,9 vezes a gravidade da Terra)",
+    "orbitalPeriod": "225 dias terrestres",
+    "rotationPeriod": "243 dias terrestres (rotação retrógrada, direção oposta à maioria dos planetas)",
+    "surfaceTemperature": "462°C (864°F), mais quente que Mercúrio, mesmo estando mais distante do Sol",
+    "atmosphereComposition": [
+      "Dióxido de carbono (CO₂)",
+      "Nitrogênio (N₂)",
+      "Dióxido de enxofre (SO₂)",
+      "Vapor d’água (H₂O)"
+    ],
+    "surfaceComposition": "Principalmente planícies vulcânicas com grandes estruturas e cadeias de montanhas",
+    "moons": null,
+    "notableFeature": "Vênus possui pressão atmosférica extrema e nuvens espessas de ácido sulfúrico, tornando-o um ambiente altamente inóspito"
+  }
+}

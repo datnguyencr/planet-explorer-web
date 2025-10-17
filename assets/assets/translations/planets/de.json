@@ -1,0 +1,224 @@
+{
+  "moon": {
+    "description": "Der Mond ist der einzige natürliche Satellit der Erde und der fünftgrößte Mond im Sonnensystem. Er spielt eine entscheidende Rolle bei den Gezeiten, dem Klima und sogar bei der Stabilität der Erdachse.",
+    "diameter": "3.474 km",
+    "averageOrbitalSpeed": "1,022 km/s",
+    "mass": "7,346 × 10²² kg",
+    "surfaceGravity": "1,62 m/s² (etwa 1/6 der Erdanziehungskraft)",
+    "orbitalPeriod": "27,3 Tage",
+    "rotationPeriod": "27,3 Tage (synchronisierte Rotation)",
+    "surfaceTemperature": "-173°C bis 127°C (-280°F bis 260°F)",
+    "atmosphereComposition": [
+      "Helium (He)",
+      "Argon (Ar)",
+      "Neon (Ne)",
+      "Natrium (Na)",
+      "Kalium (K)",
+      "Wasserstoff (H)"
+    ],
+    "surfaceComposition": "Silicatgestein, Basalt, Regolith (Monstaub)",
+    "waterPresence": "Eis in polaren Kratern nachgewiesen"
+  },
+  "mars": {
+    "description": "Der Mars ist der vierte Planet von der Sonne und der zweitkleinste im Sonnensystem. Er wird oft als der Rote Planet bezeichnet, da seine rötliche Farbe von Eisenoxid (Rost) auf seiner Oberfläche stammt.",
+    "diameter": "6.779 km",
+    "averageOrbitalSpeed": "24,077 km/s",
+    "mass": "6,417 × 10²³ kg",
+    "surfaceGravity": "3,71 m/s² (etwa 38 % der Erdanziehungskraft)",
+    "orbitalPeriod": "687 Erdentage (~1,88 Erdjahre)",
+    "rotationPeriod": "24,6 Stunden (1,03 Erdentage)",
+    "surfaceTemperature": "-140°C bis 30°C (-220°F bis 86°F)",
+    "atmosphereComposition": [
+      "Kohlenstoffdioxid (CO₂)",
+      "Stickstoff (N₂)",
+      "Argon (Ar)",
+      "Sauerstoff (O₂)",
+      "Wasserdampf (H₂O)"
+    ],
+    "surfaceComposition": "Basalt, Staub, Eisenhaltige Minerale",
+    "moons": [
+      "Phobos",
+      "Deimos"
+    ],
+    "waterPresence": "Eis an den Polen und möglicherweise flüssiges Wasser unterirdisch"
+  },
+  "saturn": {
+    "description": "Saturn ist der sechste Planet von der Sonne und der zweitgrößte im Sonnensystem. Er ist bekannt für sein ikonisches Ringsystem aus Eis, Gestein und Staub.",
+    "diameter": "120.536 km",
+    "averageOrbitalSpeed": "9,69 km/s",
+    "mass": "5,683 × 10²⁶ kg",
+    "surfaceGravity": "10,44 m/s² (etwa 95 % der Erdanziehungskraft)",
+    "orbitalPeriod": "29,5 Erdjahre",
+    "rotationPeriod": "10,7 Stunden",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "Wasserstoff (H₂)",
+      "Helium (He)",
+      "Methan (CH₄)",
+      "Ammoniak (NH₃)"
+    ],
+    "surfaceComposition": "Keine feste Oberfläche; hauptsächlich Gas mit möglichem Gesteinskern",
+    "moons": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Gesamt: 146 bekannte Monde"
+    ],
+    "rings": "Bestehen aus Eis-, Staub- und Gesteinspartikeln, bis zu 282.000 km breit"
+  },
+  "earth": {
+    "description": "Die Erde ist der dritte Planet von der Sonne und der einzige bekannte Himmelskörper, der Leben unterstützt. Sie hat ein vielfältiges Klima, flüssiges Wasser und eine schützende Atmosphäre.",
+    "diameter": "12.742 km",
+    "averageOrbitalSpeed": "29,78 km/s",
+    "mass": "5,972 × 10²⁴ kg",
+    "surfaceGravity": "9,81 m/s²",
+    "orbitalPeriod": "365,25 Tage (1 Jahr)",
+    "rotationPeriod": "23,93 Stunden",
+    "surfaceTemperature": "-88°C bis 58°C (-126°F bis 136°F)",
+    "atmosphereComposition": [
+      "Stickstoff (N₂)",
+      "Sauerstoff (O₂)",
+      "Argon (Ar)",
+      "Kohlenstoffdioxid (CO₂)",
+      "Wasserdampf (H₂O)"
+    ],
+    "surfaceComposition": "Gestein, Wasser, Boden, Eis",
+    "moons": [
+      "Der Mond"
+    ],
+    "waterPresence": "70 % der Erdoberfläche sind mit flüssigem Wasser bedeckt"
+  },
+  "jupiter": {
+    "description": "Jupiter ist der fünfte Planet von der Sonne und der größte im Sonnensystem. Er ist ein Gasriese, der hauptsächlich aus Wasserstoff und Helium besteht, und bekannt für den Großen Roten Fleck, einen riesigen Sturm.",
+    "diameter": "139.820 km",
+    "averageOrbitalSpeed": "13,07 km/s",
+    "mass": "1,898 × 10²⁷ kg",
+    "surfaceGravity": "24,79 m/s² (etwa 2,5-fache Erdanziehungskraft)",
+    "orbitalPeriod": "11,86 Erdjahre",
+    "rotationPeriod": "9,93 Stunden",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "Wasserstoff (H₂)",
+      "Helium (He)",
+      "Methan (CH₄)",
+      "Ammoniak (NH₃)",
+      "Wasserdampf (H₂O)"
+    ],
+    "surfaceComposition": "Keine feste Oberfläche; hauptsächlich Gas mit möglichem metallischem Wasserstoffkern",
+    "moons": [
+      "Io",
+      "Europa",
+      "Ganymed",
+      "Kallisto",
+      "Gesamt: 95 bekannte Monde"
+    ]
+  },
+  "mercury": {
+    "description": "Der Merkur ist der Sonne am nächsten und der kleinste Planet im Sonnensystem. Er hat keine Atmosphäre, um Wärme zu speichern, wodurch seine Temperaturen extrem schwanken.",
+    "diameter": "4.880 km",
+    "averageOrbitalSpeed": "47,87 km/s",
+    "mass": "3,301 × 10²³ kg",
+    "surfaceGravity": "3,7 m/s² (etwa 38 % der Erdanziehungskraft)",
+    "orbitalPeriod": "88 Erdentage",
+    "rotationPeriod": "58,6 Erdentage",
+    "surfaceTemperature": "-173°C bis 427°C (-280°F bis 800°F)",
+    "atmosphereComposition": [
+      "Sauerstoff (O₂)",
+      "Natrium (Na)",
+      "Wasserstoff (H)",
+      "Helium (He)",
+      "Kalium (K)"
+    ],
+    "surfaceComposition": "Silicatgestein, Eisenreicher Kern",
+    "moons": null,
+    "waterPresence": "Eis in dauerhaft schattigen Kratern an den Polen nachgewiesen"
+  },
+  "neptune": {
+    "description": "Neptun ist der achte und am weitesten von der Sonne entfernte Planet im Sonnensystem. Er ist ein Eisriese, bekannt für seine tiefblaue Farbe und die schnellsten Winde im Sonnensystem.",
+    "diameter": "49.244 km",
+    "averageOrbitalSpeed": "5,43 km/s",
+    "mass": "1,024 × 10²⁶ kg",
+    "surfaceGravity": "11,15 m/s² (etwa 1,14-fache Erdanziehungskraft)",
+    "orbitalPeriod": "164,8 Erdjahre",
+    "rotationPeriod": "16,1 Stunden",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": [
+      "Wasserstoff (H₂)",
+      "Helium (He)",
+      "Methan (CH₄)"
+    ],
+    "surfaceComposition": "Keine feste Oberfläche; hauptsächlich aus Eis und Gas mit möglichem Gesteinskern",
+    "moons": [
+      "Triton",
+      "Proteus",
+      "Nereid",
+      "Gesamt: 14 bekannte Monde"
+    ]
+  },
+  "sun": {
+    "description": "Die Sonne ist der Stern im Zentrum des Sonnensystems. Sie ist die Hauptenergiequelle für das Leben auf der Erde, und ihre Gravitation hält alle Planeten in ihrer Umlaufbahn.",
+    "diameter": "1.391.000 km",
+    "averageOrbitalSpeed": "220 km/s (um das Zentrum der Milchstraße)",
+    "mass": "1,989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (etwa 28-fache Erdanziehungskraft an der Oberfläche)",
+    "orbitalPeriod": "225 Millionen Jahre (Umlauf um das Zentrum der Milchstraße)",
+    "rotationPeriod": "24 bis 35 Tage (je nach Breitengrad)",
+    "surfaceTemperature": "5.500°C (9.932°F)",
+    "atmosphereComposition": [
+      "Wasserstoff (H)",
+      "Helium (He)",
+      "Sauerstoff (O₂)",
+      "Kohlenstoff (C)",
+      "Neon (Ne)",
+      "Eisen (Fe)"
+    ],
+    "surfaceComposition": "Hauptsächlich Wasserstoff und Helium im Plasmazustand",
+    "moons": null,
+    "solarWind": "Ständiger Strom geladener Teilchen (Protonen, Elektronen), der von der Sonne ausgestoßen wird"
+  },
+  "uranus": {
+    "description": "Uranus ist der siebte Planet von der Sonne und bekannt für seine blaue Farbe, die durch Methan in seiner Atmosphäre verursacht wird. Er ist ein Eisriese mit einer stark geneigten Achse, was extreme Jahreszeiten bewirkt.",
+    "diameter": "50.724 km",
+    "averageOrbitalSpeed": "6,81 km/s",
+    "mass": "8,681 × 10²⁵ kg",
+    "surfaceGravity": "8,69 m/s² (etwa 0,89-fache Erdanziehungskraft)",
+    "orbitalPeriod": "84 Erdjahre",
+    "rotationPeriod": "17,2 Stunden",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": [
+      "Wasserstoff (H₂)",
+      "Helium (He)",
+      "Methan (CH₄)"
+    ],
+    "surfaceComposition": "Keine feste Oberfläche; hauptsächlich aus Wasser-, Ammoniak- und Methaneis",
+    "moons": [
+      "Miranda",
+      "Ariel",
+      "Umbriel",
+      "Titania",
+      "Oberon",
+      "Gesamt: 27 bekannte Monde"
+    ],
+    "rings": "Uranus besitzt ein schwaches Ringsystem mit 13 bekannten Ringen",
+    "notableFeature": "Uranus ist einzigartig durch seine extreme Achsneigung und rotiert auf der Seite"
+  },
+  "venus": {
+    "description": "Die Venus ist der zweite Planet von der Sonne und wird oft als 'Schwesterplanet' der Erde bezeichnet, da sie in Größe und Zusammensetzung ähnlich ist. Ihre dichte Atmosphäre speichert Wärme und macht sie zum heißesten Planeten im Sonnensystem.",
+    "diameter": "12.104 km",
+    "averageOrbitalSpeed": "35,02 km/s",
+    "mass": "4,867 × 10²⁴ kg",
+    "surfaceGravity": "8,87 m/s² (etwa 0,9-fache Erdanziehungskraft)",
+    "orbitalPeriod": "225 Erdentage",
+    "rotationPeriod": "243 Erdentage (retrograde Rotation, entgegengesetzt der meisten Planeten)",
+    "surfaceTemperature": "462°C (864°F), heißer als Merkur, obwohl weiter von der Sonne entfernt",
+    "atmosphereComposition": [
+      "Kohlenstoffdioxid (CO₂)",
+      "Stickstoff (N₂)",
+      "Schwefeldioxid (SO₂)",
+      "Wasserdampf (H₂O)"
+    ],
+    "surfaceComposition": "Vorwiegend vulkanische Ebenen mit großen Vulkanen und Gebirgszügen",
+    "moons": null,
+    "notableFeature": "Venus hat extremen Oberflächendruck und eine Atmosphäre voller Schwefelsäurewolken, was sie zu einer äußerst lebensfeindlichen Umgebung macht."
+  }
+}

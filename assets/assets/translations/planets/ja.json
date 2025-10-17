@@ -1,0 +1,188 @@
+{
+  "moon": {
+    "description": "月は地球の唯一の天然衛星であり、太陽系で5番目に大きい月です。地球の潮汐、気候、そして自転軸の安定に重要な役割を果たしています。",
+    "diameter": "3,474 km",
+    "averageOrbitalSpeed": "1.022 km/s",
+    "mass": "7.346 × 10²² kg",
+    "surfaceGravity": "1.62 m/s²（地球の約1/6）",
+    "orbitalPeriod": "27.3日",
+    "rotationPeriod": "27.3日（同期回転）",
+    "surfaceTemperature": "-173°C ～ 127°C (-280°F ～ 260°F)",
+    "atmosphereComposition": [
+      "ヘリウム (He)",
+      "アルゴン (Ar)",
+      "ネオン (Ne)",
+      "ナトリウム (Na)",
+      "カリウム (K)",
+      "水素 (H)"
+    ],
+    "surfaceComposition": "ケイ酸塩岩、玄武岩、レゴリス（月の砂）",
+    "waterPresence": "極地のクレーターに氷が検出された"
+  },
+  "mars": {
+    "description": "火星は太陽から4番目の惑星で、太陽系で2番目に小さい惑星です。「赤い惑星」と呼ばれ、その赤色は表面の酸化鉄（錆）によるものです。",
+    "diameter": "6,779 km",
+    "averageOrbitalSpeed": "24.077 km/s",
+    "mass": "6.417 × 10²³ kg",
+    "surfaceGravity": "3.71 m/s²（地球の約38%）",
+    "orbitalPeriod": "687地球日（約1.88地球年）",
+    "rotationPeriod": "24.6時間（1.03地球日）",
+    "surfaceTemperature": "-140°C ～ 30°C (-220°F ～ 86°F)",
+    "atmosphereComposition": [
+      "二酸化炭素 (CO₂)",
+      "窒素 (N₂)",
+      "アルゴン (Ar)",
+      "酸素 (O₂)",
+      "水蒸気 (H₂O)"
+    ],
+    "surfaceComposition": "玄武岩、塵、鉄を多く含む鉱物",
+    "moons": ["フォボス", "ダイモス"],
+    "waterPresence": "極地に氷があり、地下に液体の水が存在する可能性もある"
+  },
+  "saturn": {
+    "description": "土星は太陽から6番目の惑星で、太陽系で2番目に大きい惑星です。氷、岩石、塵からなる壮大な環で有名です。",
+    "diameter": "120,536 km",
+    "averageOrbitalSpeed": "9.69 km/s",
+    "mass": "5.683 × 10²⁶ kg",
+    "surfaceGravity": "10.44 m/s²（地球の約95%）",
+    "orbitalPeriod": "29.5地球年",
+    "rotationPeriod": "10.7時間",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "水素 (H₂)",
+      "ヘリウム (He)",
+      "メタン (CH₄)",
+      "アンモニア (NH₃)"
+    ],
+    "surfaceComposition": "固体表面なし。主にガスで構成され、岩石の核を持つ可能性がある",
+    "moons": ["タイタン", "エンケラドゥス", "レア", "合計: 146個の既知の衛星"],
+    "rings": "氷、塵、岩石粒子で構成され、幅は最大282,000 kmに達する"
+  },
+  "earth": {
+    "description": "地球は太陽から3番目の惑星で、生命が存在することが知られている唯一の天体です。多様な気候、液体の水、保護的な大気を持っています。",
+    "diameter": "12,742 km",
+    "averageOrbitalSpeed": "29.78 km/s",
+    "mass": "5.972 × 10²⁴ kg",
+    "surfaceGravity": "9.81 m/s²",
+    "orbitalPeriod": "365.25日（1年）",
+    "rotationPeriod": "23.93時間",
+    "surfaceTemperature": "-88°C ～ 58°C (-126°F ～ 136°F)",
+    "atmosphereComposition": [
+      "窒素 (N₂)",
+      "酸素 (O₂)",
+      "アルゴン (Ar)",
+      "二酸化炭素 (CO₂)",
+      "水蒸気 (H₂O)"
+    ],
+    "surfaceComposition": "岩石、水、土壌、氷",
+    "moons": ["月"],
+    "waterPresence": "地球表面の約70%が液体の水で覆われている"
+  },
+  "jupiter": {
+    "description": "木星は太陽から5番目の惑星で、太陽系最大の惑星です。主に水素とヘリウムで構成されたガス巨星であり、大赤斑という巨大な嵐で知られています。",
+    "diameter": "139,820 km",
+    "averageOrbitalSpeed": "13.07 km/s",
+    "mass": "1.898 × 10²⁷ kg",
+    "surfaceGravity": "24.79 m/s²（地球の約2.5倍）",
+    "orbitalPeriod": "11.86地球年",
+    "rotationPeriod": "9.93時間",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "水素 (H₂)",
+      "ヘリウム (He)",
+      "メタン (CH₄)",
+      "アンモニア (NH₃)",
+      "水蒸気 (H₂O)"
+    ],
+    "surfaceComposition": "固体表面なし。主にガスで構成され、金属水素の核を持つ可能性がある",
+    "moons": ["イオ", "エウロパ", "ガニメデ", "カリスト", "合計: 95個の既知の衛星"]
+  },
+  "mercury": {
+    "description": "水星は太陽に最も近い惑星であり、太陽系で最も小さい惑星です。大気がほとんどないため、温度差が極端です。",
+    "diameter": "4,880 km",
+    "averageOrbitalSpeed": "47.87 km/s",
+    "mass": "3.301 × 10²³ kg",
+    "surfaceGravity": "3.7 m/s²（地球の約38%）",
+    "orbitalPeriod": "88地球日",
+    "rotationPeriod": "58.6地球日",
+    "surfaceTemperature": "-173°C ～ 427°C (-280°F ～ 800°F)",
+    "atmosphereComposition": [
+      "酸素 (O₂)",
+      "ナトリウム (Na)",
+      "水素 (H)",
+      "ヘリウム (He)",
+      "カリウム (K)"
+    ],
+    "surfaceComposition": "ケイ酸塩岩、鉄に富む核",
+    "moons": null,
+    "waterPresence": "極地の永久影クレーター内に氷が検出された"
+  },
+  "neptune": {
+    "description": "海王星は太陽系で8番目かつ最も外側の惑星です。美しい青色と、太陽系で最も速い風で知られる氷の巨星です。",
+    "diameter": "49,244 km",
+    "averageOrbitalSpeed": "5.43 km/s",
+    "mass": "1.024 × 10²⁶ kg",
+    "surfaceGravity": "11.15 m/s²（地球の約1.14倍）",
+    "orbitalPeriod": "164.8地球年",
+    "rotationPeriod": "16.1時間",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": ["水素 (H₂)", "ヘリウム (He)", "メタン (CH₄)"],
+    "surfaceComposition": "固体表面なし。主に氷とガスで構成され、岩石の核を持つ可能性がある",
+    "moons": ["トリトン", "プロテウス", "ネレイド", "合計: 14個の既知の衛星"]
+  },
+  "sun": {
+    "description": "太陽は太陽系の中心にある恒星です。地球上の生命にとって主なエネルギー源であり、その重力によって惑星が軌道を保っています。",
+    "diameter": "1,391,000 km",
+    "averageOrbitalSpeed": "220 km/s（天の川銀河中心の周囲軌道速度）",
+    "mass": "1.989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s²（地球の約28倍）",
+    "orbitalPeriod": "2億2500万年（銀河中心を一周する周期）",
+    "rotationPeriod": "24～35日（緯度により異なる）",
+    "surfaceTemperature": "5,500°C (9,932°F)",
+    "atmosphereComposition": [
+      "水素 (H)",
+      "ヘリウム (He)",
+      "酸素 (O₂)",
+      "炭素 (C)",
+      "ネオン (Ne)",
+      "鉄 (Fe)"
+    ],
+    "surfaceComposition": "主にプラズマ状態の水素とヘリウム",
+    "moons": null,
+    "solarWind": "太陽から放出される荷電粒子（陽子、電子）の恒常的な流れ"
+  },
+  "uranus": {
+    "description": "天王星は太陽から7番目の惑星であり、メタンによる青い色で知られています。強く傾いた自転軸を持つ氷の巨星で、極端な季節変化が起こります。",
+    "diameter": "50,724 km",
+    "averageOrbitalSpeed": "6.81 km/s",
+    "mass": "8.681 × 10²⁵ kg",
+    "surfaceGravity": "8.69 m/s²（地球の約0.89倍）",
+    "orbitalPeriod": "84地球年",
+    "rotationPeriod": "17.2時間",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": ["水素 (H₂)", "ヘリウム (He)", "メタン (CH₄)"],
+    "surfaceComposition": "固体表面なし。主に水、アンモニア、メタン氷で構成されている",
+    "moons": ["ミランダ", "アリエル", "ウンブリエル", "ティタニア", "オベロン", "合計: 27個の既知の衛星"],
+    "rings": "天王星には13本の淡い環がある",
+    "notableFeature": "天王星は自転軸が極端に傾いており、横倒し状態で回転している"
+  },
+  "venus": {
+    "description": "金星は太陽から2番目の惑星で、地球とほぼ同じ大きさ・構成を持つことから「地球の姉妹惑星」と呼ばれます。厚い大気が熱を閉じ込めており、太陽系で最も高温の惑星です。",
+    "diameter": "12,104 km",
+    "averageOrbitalSpeed": "35.02 km/s",
+    "mass": "4.867 × 10²⁴ kg",
+    "surfaceGravity": "8.87 m/s²（地球の約0.9倍）",
+    "orbitalPeriod": "225地球日",
+    "rotationPeriod": "243地球日（逆行回転：ほとんどの惑星とは逆方向）",
+    "surfaceTemperature": "462°C (864°F)。太陽からより遠いにもかかわらず水星より高温",
+    "atmosphereComposition": [
+      "二酸化炭素 (CO₂)",
+      "窒素 (N₂)",
+      "二酸化硫黄 (SO₂)",
+      "水蒸気 (H₂O)"
+    ],
+    "surfaceComposition": "主に火山性平原、大規模な火山構造、広大な山脈から成る",
+    "moons": null,
+    "notableFeature": "金星は極めて高い気圧と硫酸の雲に覆われた大気を持ち、非常に過酷な環境である。"
+  }
+}

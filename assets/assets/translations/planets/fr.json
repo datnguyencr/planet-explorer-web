@@ -1,0 +1,188 @@
+{
+  "moon": {
+    "description": "La Lune est le seul satellite naturel de la Terre et la cinquième plus grande lune du Système solaire. Elle joue un rôle crucial dans les marées terrestres, le climat et même la stabilité de l’inclinaison axiale de la Terre.",
+    "diameter": "3 474 km",
+    "averageOrbitalSpeed": "1,022 km/s",
+    "mass": "7,346 × 10²² kg",
+    "surfaceGravity": "1,62 m/s² (environ 1/6 de la gravité terrestre)",
+    "orbitalPeriod": "27,3 jours",
+    "rotationPeriod": "27,3 jours (rotation synchrone)",
+    "surfaceTemperature": "-173°C à 127°C (-280°F à 260°F)",
+    "atmosphereComposition": [
+      "Hélium (He)",
+      "Argon (Ar)",
+      "Néon (Ne)",
+      "Sodium (Na)",
+      "Potassium (K)",
+      "Hydrogène (H)"
+    ],
+    "surfaceComposition": "Roche silicatée, Basalte, Régolithe (poussière lunaire)",
+    "waterPresence": "Glace détectée dans les cratères polaires"
+  },
+  "mars": {
+    "description": "Mars est la quatrième planète à partir du Soleil et la deuxième plus petite du Système solaire. Souvent appelée la planète rouge, sa couleur provient de l’oxyde de fer (rouille) présent à sa surface.",
+    "diameter": "6 779 km",
+    "averageOrbitalSpeed": "24,077 km/s",
+    "mass": "6,417 × 10²³ kg",
+    "surfaceGravity": "3,71 m/s² (environ 38 % de la gravité terrestre)",
+    "orbitalPeriod": "687 jours terrestres (~1,88 années terrestres)",
+    "rotationPeriod": "24,6 heures (1,03 jour terrestre)",
+    "surfaceTemperature": "-140°C à 30°C (-220°F à 86°F)",
+    "atmosphereComposition": [
+      "Dioxyde de carbone (CO₂)",
+      "Azote (N₂)",
+      "Argon (Ar)",
+      "Oxygène (O₂)",
+      "Vapeur d’eau (H₂O)"
+    ],
+    "surfaceComposition": "Basalte, Poussière, Minéraux riches en fer",
+    "moons": ["Phobos", "Deimos"],
+    "waterPresence": "Glace aux pôles et peut-être de l’eau liquide souterraine"
+  },
+  "saturn": {
+    "description": "Saturne est la sixième planète à partir du Soleil et la deuxième plus grande du Système solaire. Elle est célèbre pour son système d’anneaux emblématique composé de glace, de roche et de poussière.",
+    "diameter": "120 536 km",
+    "averageOrbitalSpeed": "9,69 km/s",
+    "mass": "5,683 × 10²⁶ kg",
+    "surfaceGravity": "10,44 m/s² (environ 95 % de la gravité terrestre)",
+    "orbitalPeriod": "29,5 années terrestres",
+    "rotationPeriod": "10,7 heures",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "Hydrogène (H₂)",
+      "Hélium (He)",
+      "Méthane (CH₄)",
+      "Ammoniac (NH₃)"
+    ],
+    "surfaceComposition": "Pas de surface solide; principalement gazeuse avec un noyau rocheux possible",
+    "moons": ["Titan", "Encelade", "Rhéa", "Total : 146 lunes connues"],
+    "rings": "Composés de glace, de poussière et de particules rocheuses, s’étendant jusqu’à 282 000 km de large"
+  },
+  "earth": {
+    "description": "La Terre est la troisième planète à partir du Soleil et le seul corps céleste connu à abriter la vie. Elle possède un climat diversifié, de l’eau liquide et une atmosphère protectrice.",
+    "diameter": "12 742 km",
+    "averageOrbitalSpeed": "29,78 km/s",
+    "mass": "5,972 × 10²⁴ kg",
+    "surfaceGravity": "9,81 m/s²",
+    "orbitalPeriod": "365,25 jours (1 an)",
+    "rotationPeriod": "23,93 heures",
+    "surfaceTemperature": "-88°C à 58°C (-126°F à 136°F)",
+    "atmosphereComposition": [
+      "Azote (N₂)",
+      "Oxygène (O₂)",
+      "Argon (Ar)",
+      "Dioxyde de carbone (CO₂)",
+      "Vapeur d’eau (H₂O)"
+    ],
+    "surfaceComposition": "Roche, Eau, Sol, Glace",
+    "moons": ["La Lune"],
+    "waterPresence": "70 % de la surface terrestre est couverte d’eau liquide"
+  },
+  "jupiter": {
+    "description": "Jupiter est la cinquième planète à partir du Soleil et la plus grande du Système solaire. C’est une géante gazeuse principalement composée d’hydrogène et d’hélium, célèbre pour sa Grande Tache Rouge, une immense tempête.",
+    "diameter": "139 820 km",
+    "averageOrbitalSpeed": "13,07 km/s",
+    "mass": "1,898 × 10²⁷ kg",
+    "surfaceGravity": "24,79 m/s² (environ 2,5 fois la gravité terrestre)",
+    "orbitalPeriod": "11,86 années terrestres",
+    "rotationPeriod": "9,93 heures",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "Hydrogène (H₂)",
+      "Hélium (He)",
+      "Méthane (CH₄)",
+      "Ammoniac (NH₃)",
+      "Vapeur d’eau (H₂O)"
+    ],
+    "surfaceComposition": "Pas de surface solide; principalement gazeuse avec un noyau d’hydrogène métallique possible",
+    "moons": ["Io", "Europe", "Ganymède", "Callisto", "Total : 95 lunes connues"]
+  },
+  "mercury": {
+    "description": "Mercure est la planète la plus proche du Soleil et la plus petite du Système solaire. Elle n’a pas d’atmosphère pour retenir la chaleur, ce qui entraîne des températures extrêmement variables.",
+    "diameter": "4 880 km",
+    "averageOrbitalSpeed": "47,87 km/s",
+    "mass": "3,301 × 10²³ kg",
+    "surfaceGravity": "3,7 m/s² (environ 38 % de la gravité terrestre)",
+    "orbitalPeriod": "88 jours terrestres",
+    "rotationPeriod": "58,6 jours terrestres",
+    "surfaceTemperature": "-173°C à 427°C (-280°F à 800°F)",
+    "atmosphereComposition": [
+      "Oxygène (O₂)",
+      "Sodium (Na)",
+      "Hydrogène (H)",
+      "Hélium (He)",
+      "Potassium (K)"
+    ],
+    "surfaceComposition": "Roche silicatée, Noyau riche en fer",
+    "moons": null,
+    "waterPresence": "Glace détectée dans les cratères polaires constamment ombragés"
+  },
+  "neptune": {
+    "description": "Neptune est la huitième et la plus éloignée planète du Soleil. C’est une géante de glace connue pour sa couleur bleue intense et les vents les plus rapides du Système solaire.",
+    "diameter": "49 244 km",
+    "averageOrbitalSpeed": "5,43 km/s",
+    "mass": "1,024 × 10²⁶ kg",
+    "surfaceGravity": "11,15 m/s² (environ 1,14 fois la gravité terrestre)",
+    "orbitalPeriod": "164,8 années terrestres",
+    "rotationPeriod": "16,1 heures",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": ["Hydrogène (H₂)", "Hélium (He)", "Méthane (CH₄)"],
+    "surfaceComposition": "Pas de surface solide; principalement composée de glace et de gaz avec un noyau rocheux possible",
+    "moons": ["Triton", "Protée", "Néréide", "Total : 14 lunes connues"]
+  },
+  "sun": {
+    "description": "Le Soleil est l’étoile au centre du Système solaire. Il est la principale source d’énergie pour la vie sur Terre, et sa gravité maintient les planètes en orbite.",
+    "diameter": "1 391 000 km",
+    "averageOrbitalSpeed": "220 km/s (autour du centre de la Voie lactée)",
+    "mass": "1,989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (environ 28 fois la gravité terrestre en surface)",
+    "orbitalPeriod": "225 millions d’années (pour orbiter autour du centre de la Voie lactée)",
+    "rotationPeriod": "24 à 35 jours (selon la latitude)",
+    "surfaceTemperature": "5 500°C (9 932°F)",
+    "atmosphereComposition": [
+      "Hydrogène (H)",
+      "Hélium (He)",
+      "Oxygène (O₂)",
+      "Carbone (C)",
+      "Néon (Ne)",
+      "Fer (Fe)"
+    ],
+    "surfaceComposition": "Principalement de l’hydrogène et de l’hélium à l’état de plasma",
+    "moons": null,
+    "solarWind": "Flux constant de particules chargées (protons, électrons) émis par le Soleil"
+  },
+  "uranus": {
+    "description": "Uranus est la septième planète à partir du Soleil, connue pour sa couleur bleue due au méthane dans son atmosphère. C’est une géante de glace avec un axe fortement incliné, provoquant des variations saisonnières extrêmes.",
+    "diameter": "50 724 km",
+    "averageOrbitalSpeed": "6,81 km/s",
+    "mass": "8,681 × 10²⁵ kg",
+    "surfaceGravity": "8,69 m/s² (environ 0,89 fois la gravité terrestre)",
+    "orbitalPeriod": "84 années terrestres",
+    "rotationPeriod": "17,2 heures",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": ["Hydrogène (H₂)", "Hélium (He)", "Méthane (CH₄)"],
+    "surfaceComposition": "Pas de surface solide; principalement composée d’eau, d’ammoniac et de glaces de méthane",
+    "moons": ["Miranda", "Ariel", "Umbriel", "Titania", "Obéron", "Total : 27 lunes connues"],
+    "rings": "Uranus possède un système d’anneaux faibles constitué de 13 anneaux connus",
+    "notableFeature": "Uranus est unique par son axe fortement incliné, tournant pratiquement sur le côté"
+  },
+  "venus": {
+    "description": "Vénus est la deuxième planète à partir du Soleil et est souvent appelée la 'planète sœur' de la Terre en raison de sa taille et de sa composition similaires. Elle possède une atmosphère épaisse qui retient la chaleur, en faisant la planète la plus chaude du Système solaire.",
+    "diameter": "12 104 km",
+    "averageOrbitalSpeed": "35,02 km/s",
+    "mass": "4,867 × 10²⁴ kg",
+    "surfaceGravity": "8,87 m/s² (environ 0,9 fois la gravité terrestre)",
+    "orbitalPeriod": "225 jours terrestres",
+    "rotationPeriod": "243 jours terrestres (rotation rétrograde, dans le sens opposé à la plupart des planètes)",
+    "surfaceTemperature": "462°C (864°F), plus chaude que Mercure bien qu’elle soit plus éloignée du Soleil",
+    "atmosphereComposition": [
+      "Dioxyde de carbone (CO₂)",
+      "Azote (N₂)",
+      "Dioxyde de soufre (SO₂)",
+      "Vapeur d’eau (H₂O)"
+    ],
+    "surfaceComposition": "Principalement des plaines volcaniques avec de grandes structures volcaniques et d’immenses chaînes de montagnes",
+    "moons": null,
+    "notableFeature": "Vénus possède une pression atmosphérique extrême et une atmosphère épaisse de nuages d’acide sulfurique, la rendant très inhospitalière."
+  }
+}

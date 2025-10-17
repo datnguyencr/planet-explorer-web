@@ -1,0 +1,224 @@
+{
+  "moon": {
+    "description": "月球是地球唯一的天然卫星，也是太阳系第五大卫星。它在地球的潮汐、气候以及地轴稳定性中起着至关重要的作用。",
+    "diameter": "3,474 公里",
+    "averageOrbitalSpeed": "1.022 公里/秒",
+    "mass": "7.346 × 10²² 千克",
+    "surfaceGravity": "1.62 米/秒²（约为地球重力的 1/6）",
+    "orbitalPeriod": "27.3 天",
+    "rotationPeriod": "27.3 天（同步自转）",
+    "surfaceTemperature": "-173°C 至 127°C",
+    "atmosphereComposition": [
+      "氦 (He)",
+      "氩 (Ar)",
+      "氖 (Ne)",
+      "钠 (Na)",
+      "钾 (K)",
+      "氢 (H)"
+    ],
+    "surfaceComposition": "硅酸盐岩石、玄武岩、风化层（月尘）",
+    "waterPresence": "在极地陨石坑中检测到冰"
+  },
+  "mars": {
+    "description": "火星是距离太阳第四颗行星，也是太阳系中第二小的行星。由于表面的氧化铁（铁锈），它常被称为红色星球。",
+    "diameter": "6,779 公里",
+    "averageOrbitalSpeed": "24.077 公里/秒",
+    "mass": "6.417 × 10²³ 千克",
+    "surfaceGravity": "3.71 米/秒²（约为地球重力的 38%）",
+    "orbitalPeriod": "687 个地球日（约 1.88 个地球年）",
+    "rotationPeriod": "24.6 小时（约 1.03 个地球日）",
+    "surfaceTemperature": "-140°C 至 30°C",
+    "atmosphereComposition": [
+      "二氧化碳 (CO₂)",
+      "氮气 (N₂)",
+      "氩气 (Ar)",
+      "氧气 (O₂)",
+      "水蒸气 (H₂O)"
+    ],
+    "surfaceComposition": "玄武岩、尘埃、富铁矿物",
+    "moons": [
+      "火卫一（福波斯）",
+      "火卫二（得摩斯）"
+    ],
+    "waterPresence": "极地存在冰层，地下可能有液态水"
+  },
+  "saturn": {
+    "description": "土星是距离太阳第六颗行星，也是太阳系中第二大行星。它以其由冰、岩石和尘埃组成的著名环系统而闻名。",
+    "diameter": "120,536 公里",
+    "averageOrbitalSpeed": "9.69 公里/秒",
+    "mass": "5.683 × 10²⁶ 千克",
+    "surfaceGravity": "10.44 米/秒²（约为地球重力的 95%）",
+    "orbitalPeriod": "29.5 个地球年",
+    "rotationPeriod": "10.7 小时",
+    "surfaceTemperature": "-178°C",
+    "atmosphereComposition": [
+      "氢气 (H₂)",
+      "氦气 (He)",
+      "甲烷 (CH₄)",
+      "氨气 (NH₃)"
+    ],
+    "surfaceComposition": "无固体表面；主要由气体组成，可能有岩石核心",
+    "moons": [
+      "泰坦 (Titan)",
+      "土卫二 (Enceladus)",
+      "瑞亚 (Rhea)",
+      "共计：146 颗已知卫星"
+    ],
+    "rings": "由冰、尘埃和岩石颗粒组成，宽度可达 282,000 公里"
+  },
+  "earth": {
+    "description": "地球是距离太阳第三颗行星，也是目前已知唯一存在生命的天体。它拥有多样的气候、液态水和保护性大气层。",
+    "diameter": "12,742 公里",
+    "averageOrbitalSpeed": "29.78 公里/秒",
+    "mass": "5.972 × 10²⁴ 千克",
+    "surfaceGravity": "9.81 米/秒²",
+    "orbitalPeriod": "365.25 天（1 年）",
+    "rotationPeriod": "23.93 小时",
+    "surfaceTemperature": "-88°C 至 58°C",
+    "atmosphereComposition": [
+      "氮气 (N₂)",
+      "氧气 (O₂)",
+      "氩气 (Ar)",
+      "二氧化碳 (CO₂)",
+      "水蒸气 (H₂O)"
+    ],
+    "surfaceComposition": "岩石、水、土壤、冰",
+    "moons": [
+      "月球"
+    ],
+    "waterPresence": "地球表面约 70% 被液态水覆盖"
+  },
+  "jupiter": {
+    "description": "木星是距离太阳第五颗行星，也是太阳系中最大的行星。它是一颗气态巨行星，主要由氢和氦组成，以“大红斑”——一个巨大的风暴而闻名。",
+    "diameter": "139,820 公里",
+    "averageOrbitalSpeed": "13.07 公里/秒",
+    "mass": "1.898 × 10²⁷ 千克",
+    "surfaceGravity": "24.79 米/秒²（约为地球的 2.5 倍）",
+    "orbitalPeriod": "11.86 个地球年",
+    "rotationPeriod": "9.93 小时",
+    "surfaceTemperature": "-145°C",
+    "atmosphereComposition": [
+      "氢气 (H₂)",
+      "氦气 (He)",
+      "甲烷 (CH₄)",
+      "氨气 (NH₃)",
+      "水蒸气 (H₂O)"
+    ],
+    "surfaceComposition": "无固体表面；主要由气体组成，内部可能有金属氢核心",
+    "moons": [
+      "木卫一 (Io)",
+      "木卫二 (Europa)",
+      "木卫三 (Ganymede)",
+      "木卫四 (Callisto)",
+      "共计：95 颗已知卫星"
+    ]
+  },
+  "mercury": {
+    "description": "水星是距离太阳最近且最小的行星。由于几乎没有大气层来保留热量，它的温度变化极其剧烈。",
+    "diameter": "4,880 公里",
+    "averageOrbitalSpeed": "47.87 公里/秒",
+    "mass": "3.301 × 10²³ 千克",
+    "surfaceGravity": "3.7 米/秒²（约为地球的 38%）",
+    "orbitalPeriod": "88 个地球日",
+    "rotationPeriod": "58.6 个地球日",
+    "surfaceTemperature": "-173°C 至 427°C",
+    "atmosphereComposition": [
+      "氧气 (O₂)",
+      "钠 (Na)",
+      "氢气 (H)",
+      "氦气 (He)",
+      "钾 (K)"
+    ],
+    "surfaceComposition": "硅酸盐岩石、富铁核心",
+    "moons": null,
+    "waterPresence": "在永久阴影的极地陨石坑中检测到冰"
+  },
+  "neptune": {
+    "description": "海王星是距离太阳第八颗行星，也是最远的一颗。它是一颗冰巨行星，以深蓝色外观和太阳系中最快的风速而闻名。",
+    "diameter": "49,244 公里",
+    "averageOrbitalSpeed": "5.43 公里/秒",
+    "mass": "1.024 × 10²⁶ 千克",
+    "surfaceGravity": "11.15 米/秒²（约为地球的 1.14 倍）",
+    "orbitalPeriod": "164.8 个地球年",
+    "rotationPeriod": "16.1 小时",
+    "surfaceTemperature": "-214°C",
+    "atmosphereComposition": [
+      "氢气 (H₂)",
+      "氦气 (He)",
+      "甲烷 (CH₄)"
+    ],
+    "surfaceComposition": "无固体表面；主要由冰和气体组成，内部可能有岩石核心",
+    "moons": [
+      "海卫一 (Triton)",
+      "海卫二 (Proteus)",
+      "海卫三 (Nereid)",
+      "共计：14 颗已知卫星"
+    ]
+  },
+  "sun": {
+    "description": "太阳是太阳系的中心恒星，是地球生命的主要能量来源，其引力使行星保持在轨道上。",
+    "diameter": "1,391,000 公里",
+    "averageOrbitalSpeed": "220 公里/秒（绕银河系中心）",
+    "mass": "1.989 × 10³⁰ 千克",
+    "surfaceGravity": "274 米/秒²（约为地球表面的 28 倍）",
+    "orbitalPeriod": "2.25 亿年（绕银河系中心一周）",
+    "rotationPeriod": "24 至 35 天（取决于纬度）",
+    "surfaceTemperature": "5,500°C",
+    "atmosphereComposition": [
+      "氢 (H)",
+      "氦 (He)",
+      "氧 (O₂)",
+      "碳 (C)",
+      "氖 (Ne)",
+      "铁 (Fe)"
+    ],
+    "surfaceComposition": "主要由氢和氦组成的等离子体",
+    "moons": null,
+    "solarWind": "太阳发出的带电粒子（质子、电子）流"
+  },
+  "uranus": {
+    "description": "天王星是距离太阳第七颗行星，以其蓝绿色外观闻名，这是由于大气中的甲烷所致。它是一颗冰巨行星，轴向倾斜极大，导致极端的季节变化。",
+    "diameter": "50,724 公里",
+    "averageOrbitalSpeed": "6.81 公里/秒",
+    "mass": "8.681 × 10²⁵ 千克",
+    "surfaceGravity": "8.69 米/秒²（约为地球的 0.89 倍）",
+    "orbitalPeriod": "84 个地球年",
+    "rotationPeriod": "17.2 小时",
+    "surfaceTemperature": "-224°C",
+    "atmosphereComposition": [
+      "氢气 (H₂)",
+      "氦气 (He)",
+      "甲烷 (CH₄)"
+    ],
+    "surfaceComposition": "无固体表面；主要由水、氨和甲烷冰组成",
+    "moons": [
+      "米兰达 (Miranda)",
+      "艾丽尔 (Ariel)",
+      "安布里尔 (Umbriel)",
+      "泰坦妮亚 (Titania)",
+      "奥伯龙 (Oberon)",
+      "共计：27 颗已知卫星"
+    ],
+    "rings": "拥有 13 条已知的微弱环带",
+    "notableFeature": "天王星的自转轴几乎水平，像‘横躺着’旋转"
+  },
+  "venus": {
+    "description": "金星是距离太阳第二颗行星，因大小和组成与地球相似，被称为地球的“姊妹星”。其厚重的大气层会强烈吸热，使其成为太阳系中最炽热的行星。",
+    "diameter": "12,104 公里",
+    "averageOrbitalSpeed": "35.02 公里/秒",
+    "mass": "4.867 × 10²⁴ 千克",
+    "surfaceGravity": "8.87 米/秒²（约为地球的 0.9 倍）",
+    "orbitalPeriod": "225 个地球日",
+    "rotationPeriod": "243 个地球日（逆行自转，方向与大多数行星相反）",
+    "surfaceTemperature": "462°C，比水星更热，即使距离太阳更远",
+    "atmosphereComposition": [
+      "二氧化碳 (CO₂)",
+      "氮气 (N₂)",
+      "二氧化硫 (SO₂)",
+      "水蒸气 (H₂O)"
+    ],
+    "surfaceComposition": "主要是火山平原、巨大火山结构和广阔的山脉",
+    "moons": null,
+    "notableFeature": "金星具有极高的地表压力，大气层中充满硫酸云，环境极其恶劣"
+  }
+}

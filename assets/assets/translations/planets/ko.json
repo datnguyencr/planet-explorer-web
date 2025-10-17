@@ -1,0 +1,224 @@
+{
+  "moon": {
+    "description": "달은 지구의 유일한 자연 위성이며 태양계에서 다섯 번째로 큰 위성입니다. 달은 지구의 조수, 기후, 그리고 자전축의 안정성에 중요한 역할을 합니다.",
+    "diameter": "3,474 km",
+    "averageOrbitalSpeed": "1.022 km/s",
+    "mass": "7.346 × 10²² kg",
+    "surfaceGravity": "1.62 m/s² (지구 중력의 약 1/6)",
+    "orbitalPeriod": "27.3일",
+    "rotationPeriod": "27.3일 (동주기 자전)",
+    "surfaceTemperature": "-173°C ~ 127°C (-280°F ~ 260°F)",
+    "atmosphereComposition": [
+      "헬륨 (He)",
+      "아르곤 (Ar)",
+      "네온 (Ne)",
+      "나트륨 (Na)",
+      "칼륨 (K)",
+      "수소 (H)"
+    ],
+    "surfaceComposition": "규산염 암석, 현무암, 레고리스(달의 먼지)",
+    "waterPresence": "극지 분화구에서 얼음이 발견됨"
+  },
+  "mars": {
+    "description": "화성은 태양으로부터 네 번째 행성이자 태양계에서 두 번째로 작은 행성입니다. 흔히 '붉은 행성'이라 불리며, 표면의 붉은색은 산화철(녹) 때문입니다.",
+    "diameter": "6,779 km",
+    "averageOrbitalSpeed": "24.077 km/s",
+    "mass": "6.417 × 10²³ kg",
+    "surfaceGravity": "3.71 m/s² (지구 중력의 약 38%)",
+    "orbitalPeriod": "687 지구일 (~1.88 지구년)",
+    "rotationPeriod": "24.6시간 (1.03 지구일)",
+    "surfaceTemperature": "-140°C ~ 30°C (-220°F ~ 86°F)",
+    "atmosphereComposition": [
+      "이산화탄소 (CO₂)",
+      "질소 (N₂)",
+      "아르곤 (Ar)",
+      "산소 (O₂)",
+      "수증기 (H₂O)"
+    ],
+    "surfaceComposition": "현무암, 먼지, 철이 풍부한 광물",
+    "moons": [
+      "포보스",
+      "데이모스"
+    ],
+    "waterPresence": "극지방의 얼음과 지하의 액체 상태 물 존재 가능성"
+  },
+  "saturn": {
+    "description": "토성은 태양으로부터 여섯 번째 행성이며 태양계에서 두 번째로 큰 행성입니다. 얼음, 암석, 먼지로 이루어진 상징적인 고리로 유명합니다.",
+    "diameter": "120,536 km",
+    "averageOrbitalSpeed": "9.69 km/s",
+    "mass": "5.683 × 10²⁶ kg",
+    "surfaceGravity": "10.44 m/s² (지구 중력의 약 95%)",
+    "orbitalPeriod": "29.5 지구년",
+    "rotationPeriod": "10.7시간",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "수소 (H₂)",
+      "헬륨 (He)",
+      "메탄 (CH₄)",
+      "암모니아 (NH₃)"
+    ],
+    "surfaceComposition": "고체 표면이 없으며, 가스로 이루어져 있고 중심에 암석핵이 존재할 가능성 있음",
+    "moons": [
+      "타이탄",
+      "엔셀라두스",
+      "레아",
+      "총 146개의 위성"
+    ],
+    "rings": "얼음, 먼지, 암석 입자로 구성되어 있으며 최대 282,000 km까지 확장됨"
+  },
+  "earth": {
+    "description": "지구는 태양으로부터 세 번째 행성이며, 생명을 유지하는 것으로 알려진 유일한 천체입니다. 다양한 기후, 액체 상태의 물, 보호 대기를 가지고 있습니다.",
+    "diameter": "12,742 km",
+    "averageOrbitalSpeed": "29.78 km/s",
+    "mass": "5.972 × 10²⁴ kg",
+    "surfaceGravity": "9.81 m/s²",
+    "orbitalPeriod": "365.25일 (1년)",
+    "rotationPeriod": "23.93시간",
+    "surfaceTemperature": "-88°C ~ 58°C (-126°F ~ 136°F)",
+    "atmosphereComposition": [
+      "질소 (N₂)",
+      "산소 (O₂)",
+      "아르곤 (Ar)",
+      "이산화탄소 (CO₂)",
+      "수증기 (H₂O)"
+    ],
+    "surfaceComposition": "암석, 물, 토양, 얼음",
+    "moons": [
+      "달"
+    ],
+    "waterPresence": "지구 표면의 약 70%가 액체 상태의 물로 덮여 있음"
+  },
+  "jupiter": {
+    "description": "목성은 태양으로부터 다섯 번째 행성이자 태양계에서 가장 큰 행성입니다. 주로 수소와 헬륨으로 구성된 가스 행성이며, 거대한 폭풍인 '대적점'으로 유명합니다.",
+    "diameter": "139,820 km",
+    "averageOrbitalSpeed": "13.07 km/s",
+    "mass": "1.898 × 10²⁷ kg",
+    "surfaceGravity": "24.79 m/s² (지구 중력의 약 2.5배)",
+    "orbitalPeriod": "11.86 지구년",
+    "rotationPeriod": "9.93시간",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "수소 (H₂)",
+      "헬륨 (He)",
+      "메탄 (CH₄)",
+      "암모니아 (NH₃)",
+      "수증기 (H₂O)"
+    ],
+    "surfaceComposition": "고체 표면이 없으며, 주로 가스로 이루어져 있고 중심부에 금속성 수소핵이 있을 가능성 있음",
+    "moons": [
+      "이오",
+      "유로파",
+      "가니메데",
+      "칼리스토",
+      "총 95개의 위성"
+    ]
+  },
+  "mercury": {
+    "description": "수성은 태양에 가장 가까운 행성이자 태양계에서 가장 작은 행성입니다. 열을 유지할 대기가 없어 온도 변화가 극심합니다.",
+    "diameter": "4,880 km",
+    "averageOrbitalSpeed": "47.87 km/s",
+    "mass": "3.301 × 10²³ kg",
+    "surfaceGravity": "3.7 m/s² (지구 중력의 약 38%)",
+    "orbitalPeriod": "88 지구일",
+    "rotationPeriod": "58.6 지구일",
+    "surfaceTemperature": "-173°C ~ 427°C (-280°F ~ 800°F)",
+    "atmosphereComposition": [
+      "산소 (O₂)",
+      "나트륨 (Na)",
+      "수소 (H)",
+      "헬륨 (He)",
+      "칼륨 (K)"
+    ],
+    "surfaceComposition": "규산염 암석, 철이 풍부한 핵",
+    "moons": null,
+    "waterPresence": "극지의 영구 음영 분화구에서 얼음이 탐지됨"
+  },
+  "neptune": {
+    "description": "해왕성은 태양으로부터 여덟 번째이자 가장 먼 행성입니다. 푸른 색조의 얼음 거인으로, 태양계에서 가장 빠른 바람을 가진 행성입니다.",
+    "diameter": "49,244 km",
+    "averageOrbitalSpeed": "5.43 km/s",
+    "mass": "1.024 × 10²⁶ kg",
+    "surfaceGravity": "11.15 m/s² (지구 중력의 약 1.14배)",
+    "orbitalPeriod": "164.8 지구년",
+    "rotationPeriod": "16.1시간",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": [
+      "수소 (H₂)",
+      "헬륨 (He)",
+      "메탄 (CH₄)"
+    ],
+    "surfaceComposition": "고체 표면이 없으며, 주로 얼음과 가스로 구성되어 있고 중심에 암석핵이 있을 가능성 있음",
+    "moons": [
+      "트리톤",
+      "프로테우스",
+      "네레이드",
+      "총 14개의 위성"
+    ]
+  },
+  "sun": {
+    "description": "태양은 태양계의 중심에 위치한 항성으로, 지구 생명체의 주요 에너지원입니다. 태양의 중력은 모든 행성을 궤도에 유지시킵니다.",
+    "diameter": "1,391,000 km",
+    "averageOrbitalSpeed": "220 km/s (은하 중심을 공전하는 속도)",
+    "mass": "1.989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (지표 기준 지구 중력의 약 28배)",
+    "orbitalPeriod": "2억 2,500만 년 (은하 중심 공전 주기)",
+    "rotationPeriod": "24~35일 (위도에 따라 다름)",
+    "surfaceTemperature": "5,500°C (9,932°F)",
+    "atmosphereComposition": [
+      "수소 (H)",
+      "헬륨 (He)",
+      "산소 (O₂)",
+      "탄소 (C)",
+      "네온 (Ne)",
+      "철 (Fe)"
+    ],
+    "surfaceComposition": "주로 수소와 헬륨으로 이루어진 플라즈마 상태",
+    "moons": null,
+    "solarWind": "태양에서 방출되는 양성자와 전자로 구성된 지속적인 입자 흐름"
+  },
+  "uranus": {
+    "description": "천왕성은 태양으로부터 일곱 번째 행성이며, 대기의 메탄으로 인해 푸른 색을 띠는 얼음 거성입니다. 자전축이 거의 옆으로 누워 있어 극단적인 계절 변화를 겪습니다.",
+    "diameter": "50,724 km",
+    "averageOrbitalSpeed": "6.81 km/s",
+    "mass": "8.681 × 10²⁵ kg",
+    "surfaceGravity": "8.69 m/s² (지구 중력의 약 0.89배)",
+    "orbitalPeriod": "84 지구년",
+    "rotationPeriod": "17.2시간",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": [
+      "수소 (H₂)",
+      "헬륨 (He)",
+      "메탄 (CH₄)"
+    ],
+    "surfaceComposition": "고체 표면이 없으며, 주로 물, 암모니아, 메탄 얼음으로 구성됨",
+    "moons": [
+      "미란다",
+      "에리얼",
+      "움브리엘",
+      "티타니아",
+      "오베론",
+      "총 27개의 위성"
+    ],
+    "rings": "13개의 희미한 고리로 구성된 고리계가 있음",
+    "notableFeature": "천왕성은 극단적인 자전축 기울기로 인해 옆으로 회전하는 독특한 행성임"
+  },
+  "venus": {
+    "description": "금성은 태양으로부터 두 번째 행성이며, 크기와 구성 면에서 지구의 '쌍둥이 행성'이라 불립니다. 두꺼운 대기가 열을 가두어 태양계에서 가장 뜨거운 행성입니다.",
+    "diameter": "12,104 km",
+    "averageOrbitalSpeed": "35.02 km/s",
+    "mass": "4.867 × 10²⁴ kg",
+    "surfaceGravity": "8.87 m/s² (지구 중력의 약 0.9배)",
+    "orbitalPeriod": "225 지구일",
+    "rotationPeriod": "243 지구일 (역행 자전, 대부분의 행성과 반대 방향)",
+    "surfaceTemperature": "462°C (864°F), 태양에 더 가까운 수성보다도 더 뜨거움",
+    "atmosphereComposition": [
+      "이산화탄소 (CO₂)",
+      "질소 (N₂)",
+      "이산화황 (SO₂)",
+      "수증기 (H₂O)"
+    ],
+    "surfaceComposition": "대부분 화산 평원으로, 거대한 화산 구조물과 광범위한 산맥이 있음",
+    "moons": null,
+    "notableFeature": "금성은 극단적인 표면 압력과 황산 구름으로 가득 찬 두꺼운 대기를 지녀 매우 가혹한 환경을 형성함"
+  }
+}

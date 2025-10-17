@@ -1,0 +1,232 @@
+{
+  "moon": {
+    "description": "The Moon is Earth's only natural satellite and the fifth-largest moon in the Solar System. It plays a crucial role in Earth's tides, climate, and even the stability of Earth's axial tilt.",
+    "diameter": "3,474 km",
+    "averageOrbitalSpeed": "1.022 km/s",
+    "mass": "7.346 × 10²² kg",
+    "surfaceGravity": "1.62 m/s² (about 1/6th of Earth's gravity)",
+    "orbitalPeriod": "27.3 days",
+    "rotationPeriod": "27.3 days (synchronous rotation)",
+    "surfaceTemperature": "-173°C to 127°C (-280°F to 260°F)",
+    "atmosphereComposition": [
+      "Helium (He)",
+      "Argon (Ar)",
+      "Neon (Ne)",
+      "Sodium (Na)",
+      "Potassium (K)",
+      "Hydrogen (H)"
+    ],
+    "surfaceComposition":
+      "Silicate rock, Basalt, Regolith (moon dust)"
+    ,
+    "waterPresence": "Ice detected in polar craters"
+  },
+  "mars": {
+    "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System. Often called the Red Planet, its reddish color comes from iron oxide (rust) on its surface.",
+    "diameter": "6,779 km",
+    "averageOrbitalSpeed": "24.077 km/s",
+    "mass": "6.417 × 10²³ kg",
+    "surfaceGravity": "3.71 m/s² (about 38% of Earth's gravity)",
+    "orbitalPeriod": "687 Earth days (~1.88 Earth years)",
+    "rotationPeriod": "24.6 hours (1.03 Earth days)",
+    "surfaceTemperature": "-140°C to 30°C (-220°F to 86°F)",
+    "atmosphereComposition": [
+      "Carbon dioxide (CO₂)",
+      "Nitrogen (N₂)",
+      "Argon (Ar)",
+      "Oxygen (O₂)",
+      "Water Vapor (H₂O)"
+    ],
+    "surfaceComposition":
+      "Basalt, Dust, Iron-rich minerals"
+    ,
+    "moons": [
+      "Phobos",
+      "Deimos"
+    ],
+    "waterPresence": "Ice at the poles and possibly liquid water underground"
+  },
+  "saturn": {
+    "description": "Saturn is the sixth planet from the Sun and the second-largest planet in the Solar System. It is best known for its iconic ring system, made of ice, rock, and dust.",
+    "diameter": "120,536 km",
+    "averageOrbitalSpeed": "9.69 km/s",
+    "mass": "5.683 × 10²⁶ kg",
+    "surfaceGravity": "10.44 m/s² (about 95% of Earth's gravity)",
+    "orbitalPeriod": "29.5 Earth years",
+    "rotationPeriod": "10.7 hours",
+    "surfaceTemperature": "-178°C (-288°F)",
+    "atmosphereComposition": [
+      "Hydrogen (H₂)",
+      "Helium (He)",
+      "Methane (CH₄)",
+      "Ammonia (NH₃)"
+    ],
+    "surfaceComposition": "No solid surface; composed mainly of gas with a possible rocky core",
+    "moons": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Total: 146 known moons"
+    ],
+    "rings": "Made of ice, dust, and rock particles, stretching up to 282,000 km wide"
+  },
+  "earth": {
+    "description": "Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse climate, liquid water, and a protective atmosphere.",
+    "diameter": "12,742 km",
+    "averageOrbitalSpeed": "29.78 km/s",
+    "mass": "5.972 × 10²⁴ kg",
+    "surfaceGravity": "9.81 m/s²",
+    "orbitalPeriod": "365.25 days (1 year)",
+    "rotationPeriod": "23.93 hours",
+    "surfaceTemperature": "-88°C to 58°C (-126°F to 136°F)",
+    "atmosphereComposition": [
+      "Nitrogen (N₂)",
+      "Oxygen (O₂)",
+      "Argon (Ar)",
+      "Carbon Dioxide (CO₂)",
+      "Water Vapor (H₂O)"
+    ],
+    "surfaceComposition":
+      "Rock, Water, Soil, Ice"
+    ,
+    "moons": [
+      "The Moon"
+    ],
+    "waterPresence": "70% of Earth's surface is covered in liquid water"
+  },
+  "jupiter": {
+    "description": "Jupiter is the fifth planet from the Sun and the largest planet in the Solar System. It is a gas giant primarily composed of hydrogen and helium, known for its Great Red Spot, a massive storm.",
+    "diameter": "139,820 km",
+    "averageOrbitalSpeed": "13.07 km/s",
+    "mass": "1.898 × 10²⁷ kg",
+    "surfaceGravity": "24.79 m/s² (about 2.5 times Earth's gravity)",
+    "orbitalPeriod": "11.86 Earth years",
+    "rotationPeriod": "9.93 hours",
+    "surfaceTemperature": "-145°C (-234°F)",
+    "atmosphereComposition": [
+      "Hydrogen (H₂)",
+      "Helium (He)",
+      "Methane (CH₄)",
+      "Ammonia (NH₃)",
+      "Water Vapor (H₂O)"
+    ],
+    "surfaceComposition": "No solid surface; composed mainly of gas with a possible metallic hydrogen core",
+    "moons": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto",
+      "Total: 95 known moons"
+    ]
+  },
+  "mercury": {
+    "description": "Mercury is the closest planet to the Sun and the smallest planet in the Solar System. It has no atmosphere to retain heat, making its temperatures highly extreme.",
+    "diameter": "4,880 km",
+    "averageOrbitalSpeed": "47.87 km/s",
+    "mass": "3.301 × 10²³ kg",
+    "surfaceGravity": "3.7 m/s² (about 38% of Earth's gravity)",
+    "orbitalPeriod": "88 Earth days",
+    "rotationPeriod": "58.6 Earth days",
+    "surfaceTemperature": "-173°C to 427°C (-280°F to 800°F)",
+    "atmosphereComposition": [
+      "Oxygen (O₂)",
+      "Sodium (Na)",
+      "Hydrogen (H)",
+      "Helium (He)",
+      "Potassium (K)"
+    ],
+    "surfaceComposition":
+      "Silicate rock, Iron-rich core"
+    ,
+    "moons": null,
+    "waterPresence": "Ice detected in permanently shadowed craters at the poles"
+  },
+  "neptune": {
+    "description": "Neptune is the eighth and farthest planet from the Sun in the Solar System. It is an ice giant known for its deep blue color and the fastest winds in the solar system.",
+    "diameter": "49,244 km",
+    "averageOrbitalSpeed": "5.43 km/s",
+    "mass": "1.024 × 10²⁶ kg",
+    "surfaceGravity": "11.15 m/s² (about 1.14 times Earth's gravity)",
+    "orbitalPeriod": "164.8 Earth years",
+    "rotationPeriod": "16.1 hours",
+    "surfaceTemperature": "-214°C (-353°F)",
+    "atmosphereComposition": [
+      "Hydrogen (H₂)",
+      "Helium (He)",
+      "Methane (CH₄)"
+    ],
+    "surfaceComposition": "No solid surface; composed mainly of ice and gas with a possible rocky core",
+    "moons": [
+      "Triton",
+      "Proteus",
+      "Nereid",
+      "Total: 14 known moons"
+    ]
+  },
+  "sun": {
+    "description": "The Sun is the star at the center of the Solar System. It is the primary source of energy for life on Earth, and its gravitational pull keeps all the planets in orbit.",
+    "diameter": "1,391,000 km",
+    "averageOrbitalSpeed": "220 km/s (around the center of the Milky Way)",
+    "mass": "1.989 × 10³⁰ kg",
+    "surfaceGravity": "274 m/s² (about 28 times Earth's gravity at the surface)",
+    "orbitalPeriod": "225 million years (to orbit the center of the Milky Way)",
+    "rotationPeriod": "24 to 35 days (depends on latitude)",
+    "surfaceTemperature": "5,500°C (9,932°F)",
+    "atmosphereComposition": [
+      "Hydrogen (H)",
+      "Helium (He)",
+      "Oxygen (O₂)",
+      "Carbon (C)",
+      "Neon (Ne)",
+      "Iron (Fe)"
+    ],
+    "surfaceComposition": "Mainly hydrogen and helium in a plasma state",
+    "moons": null,
+    "solarWind": "Constant stream of charged particles (protons, electrons) emitted by the Sun"
+  },
+  "uranus": {
+    "description": "Uranus is the seventh planet from the Sun and is known for its blue color, which is caused by methane in its atmosphere. It is an ice giant with a tilted axis, causing extreme seasonal variations.",
+    "diameter": "50,724 km",
+    "averageOrbitalSpeed": "6.81 km/s",
+    "mass": "8.681 × 10²⁵ kg",
+    "surfaceGravity": "8.69 m/s² (about 0.89 times Earth's gravity)",
+    "orbitalPeriod": "84 Earth years",
+    "rotationPeriod": "17.2 hours",
+    "surfaceTemperature": "-224°C (-371°F)",
+    "atmosphereComposition": [
+      "Hydrogen (H₂)",
+      "Helium (He)",
+      "Methane (CH₄)"
+    ],
+    "surfaceComposition": "No solid surface; composed mainly of water, ammonia, and methane ices",
+    "moons": [
+      "Miranda",
+      "Ariel",
+      "Umbriel",
+      "Titania",
+      "Oberon",
+      "Total: 27 known moons"
+    ],
+    "rings": "Uranus has a faint ring system consisting of 13 known rings",
+    "notableFeature": "Uranus is unique for its extreme axial tilt, rotating on its side"
+  },
+  "venus": {
+    "description": "Venus is the second planet from the Sun and is often called Earth's 'sister planet' due to its similar size and composition. It has a thick atmosphere that traps heat, making it the hottest planet in the Solar System.",
+    "diameter": "12,104 km",
+    "averageOrbitalSpeed": "35.02 km/s",
+    "mass": "4.867 × 10²⁴ kg",
+    "surfaceGravity": "8.87 m/s² (about 0.9 times Earth's gravity)",
+    "orbitalPeriod": "225 Earth days",
+    "rotationPeriod": "243 Earth days (retrograde rotation, opposite direction of most planets)",
+    "surfaceTemperature": "462°C (864°F), hotter than Mercury despite being farther from the Sun",
+    "atmosphereComposition": [
+      "Carbon dioxide (CO₂)",
+      "Nitrogen (N₂)",
+      "Sulfur dioxide (SO₂)",
+      "Water vapor (H₂O)"
+    ],
+    "surfaceComposition": "Mainly volcanic plains with large volcanic structures and vast mountain ranges",
+    "moons": null,
+    "notableFeature": "Venus has extreme surface pressure and an atmosphere thick with clouds of sulfuric acid, making it a highly inhospitable environment."
+  }
+}
